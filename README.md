@@ -11,5 +11,6 @@ golang的交叉编译（在一台机器上构建运行在具有不同操作系�
 接口多态
 CEP(complex event processing)
 异常机制`recover` `panic`
+`iota`用法
 
 ### 示例类
